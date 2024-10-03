@@ -22,7 +22,7 @@ public:
 int main()
 {
     // Sample input
-    vector<int> nums = {2, 7, 11, 15}; // Make sure you're using C++11 or later
+    vector<int> nums = {2,7,11,15}; // Make sure you're using C++11 or later
     int target = 9;
 
     // Create an instance of the Solution class
