@@ -40,7 +40,7 @@ int main()
     }
     else
     {
-        cout << "Element not found" << endl;
+        cout << "Element not found at index" << endl;
     }
 
     return 0;
